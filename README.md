@@ -3,6 +3,7 @@
 **Author:** Vikram Lingam  
 **GitHub:** [https://github.com/vikramlingam](https://github.com/vikramlingam)  
 **LinkedIn:** [https://www.linkedin.com/in/vikramlingam/](https://www.linkedin.com/in/vikramlingam/)
+
 **Streamlit App** https://stockforecast-vik.streamlit.app/
 
 ## Context
