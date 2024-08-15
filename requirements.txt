@@ -1,1 +1,6 @@
 yfinance
+prophet
+streamlit
+pandas
+numpy
+matplotlib
