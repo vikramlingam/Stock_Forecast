@@ -3,6 +3,7 @@
 **Author:** Vikram Lingam  
 **GitHub:** [https://github.com/vikramlingam](https://github.com/vikramlingam)  
 **LinkedIn:** [https://www.linkedin.com/in/vikramlingam/](https://www.linkedin.com/in/vikramlingam/)
+**Streamlit App** https://stockforecast-vik.streamlit.app/
 
 ## Context
 The Indian Stock Forecast App is an application developed to predict the future stock price of NIFTY 50 companies, based on the Prophet time series model. An app that allows one to choose any stock out of the NIFTY 50 index, get a brief about the company, and generate a forecast of up to 4 years.
