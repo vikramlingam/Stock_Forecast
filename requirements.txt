@@ -5,3 +5,4 @@ pandas
 numpy
 matplotlib
 numpy<2.0
+plotly
